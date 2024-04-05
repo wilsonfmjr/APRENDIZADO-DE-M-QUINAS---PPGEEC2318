@@ -1,3 +1,5 @@
+# Resumo dos três primeiros capítulos do livro *“Designing Machine Learning Systems”* de Chip Huyen
+
 Este artigo tem por objetivo presentar o resumo dos três primeiros capítulos do livro “Designing Machine Learning Systems” de Chip Huyen como atividade de absorvendo o conhecimento da disciplina de Aprendizado de Máquina do Programa de Pós-Graduação em Engenharia Elétrica e de Computação da (PPGEEC) Universidade Federal do Rio Grande do Norte (UFRN).\
 \
 O primeiro capítulo tem por objetivo apresentar uma visão geral dos sistemas de aprendizado de máquina (Machine Learning - ML). O ML encontrou o seu caminho em quase todos os aspectos das nossas vidas, mas ainda existem muitos outros casos de uso de ML esperando para serem explorados. Para que isso aconteça o desenvolvimento do algoritmo é apenas uma pequena parte de um sistema de ML a ser colocado em produção.\
